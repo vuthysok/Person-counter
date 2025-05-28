@@ -13,6 +13,14 @@ body {
     border: solid black 3px;
     border-radius: 10px;
 }
+#author{
+    text-align: right;
+    margin-right: 10px;
+    margin-top: 10px;
+    font-size: small;
+    opacity: 0.5;
+
+}
 h1 {
     margin-top: 20px;
     margin-bottom: 10px;
